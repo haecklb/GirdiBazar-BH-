@@ -22,7 +22,7 @@ If you are interested in what our 3D completed models look like, please have a l
 ![UCL](https://micropasts-other.s3.amazonaws.com/other/UCL_logo_wide.png)
 ![British Museum](https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2016/11/The-British-Museum-Logo.gif)
 ![Munich University](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/LMU_Muenchen_Logo.svg/200px-LMU_Muenchen_Logo.svg.png)
-![Alexander von Humboldt Foundation](https://www.research-in-germany.org/.imaging/mte/daad-theme/small/dam/images/LogosExtern-Organ.--Companies--Portale-etc./AvH-Logo.png/jcr:content/AvH-Logo.png)
+![Alexander von Humboldt Foundation](https://www.research-in-germany.org/.imaging/mte/daad-theme/small/dam/images/Logos-Extern-Organ.--Companies--Portale-etc./AvH-Logo.png/jcr:content/AvH-Logo.png)
 
 ### Find the code on GitHub
 
